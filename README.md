@@ -9,4 +9,4 @@ This repository contains my submission for the peer-graded assignment from the I
 
 ## Author
 
-Sonu D K
+Devraj D. Korgaonkar
